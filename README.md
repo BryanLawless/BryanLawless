@@ -2,7 +2,7 @@
   
  ``` 
  💀 Age: 17. 
- 📬 Contacts: thefreesouce@outlook.com
+ 📬 Contacts: thelawlessdev@gmail.com
  🖥️ Favorite Languages: Python, Javascript, & Go. 
  👾 Want to learn: Mobile App development.
  💼 Experience: 4-5 years. 
