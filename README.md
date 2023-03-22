@@ -11,7 +11,7 @@
  
  ``` 
  💀 Age: 17. 
- 📬 Contacts: thelawlessbryan@gmail.com
+ 📬 Discord: TheLawlessDev#6483
  🖥️ Favorite Languages: Python, Javascript, & Go. 
  👾 Want to learn: Flutter app development.
  💼 Experience: 4-5 years. 
