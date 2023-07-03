@@ -1,4 +1,4 @@
-<img src="./banner.png" />
+<img src="./profile-banner.png" />
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514559/5584/deployparrot.gif?1643514559" /> Hey there! <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=TheLawlessDev&style=flat-square"></h2>
 
