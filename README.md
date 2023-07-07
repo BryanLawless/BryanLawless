@@ -43,7 +43,7 @@ My goal with my projects is to give power back to the user, and making things th
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643511412/43823/github_on_fire.gif?1643511412" height="30"> Github Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheLawlessDev&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" width="32%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheLawlessDev&theme=github_dark&hide_border=true" width="35%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLawlessDev&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="25%">
+  <img src="https://github-readme-stats.vercel.app/api?username=BryanLawless&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" width="32%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanLawless&theme=github_dark&hide_border=true" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanLawless&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="25%">
 </p>
