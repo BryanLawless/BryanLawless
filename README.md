@@ -15,7 +15,7 @@ My goal with my projects is to give power back to the user, and making things th
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=316pt6l3w7zem7dk46bigtl3dhzy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
 
 - 🌲 A `17` year old male from Colorado, USA 🇺🇸
-- 🚀 Currently working on [Flock]() and [Scythe]()
+- 🚀 Currently working on [Flock]() and [Phage](https://github.com/BryanLawless/Phage)
 - 📚 Learning `Dart` and `Flutter`
 - ⭐ Favorite programming langauges:
     - Golang
