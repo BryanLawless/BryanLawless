@@ -37,7 +37,12 @@ My goal with my projects is to give power back to the user, and making things th
 <br>
 
 <h2>🪙 Certifications</h2>
-<img src="./itf-cert.png" width="100" height="100">
+<table>
+  <tr>
+    <td><img src="./itf-cert.png" height="140"></td>
+    <td><img src="./a-plus-cert.png" height="100"></td>
+  </tr>
+</table>
 
 <br>
 
