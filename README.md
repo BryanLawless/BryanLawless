@@ -37,7 +37,7 @@ My goal with my projects is to give power back to the user, and making things th
 
 <h2>🚧 Current Projects</h2>
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Student-Scoop&repo=Student-Scoop&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Student-Scoop&repo=Mobile-App&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BryanLawless&repo=Scythe&theme=github_dark&hide_border=true" />
 </div>
 
