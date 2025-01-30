@@ -1,4 +1,4 @@
-<h2>👋 Hey there! <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=TheLawlessDev&style=flat-square"></h2>
+<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=TheLawlessDev&style=flat-square">
 
 ```go
 package readme
